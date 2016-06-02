@@ -236,7 +236,7 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "2.8.17",
+        version: "uzsāk darbu!",
         status: false,
         name: "Mazais latvietis",
         loggedInID: null,
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "Mazais latvietis",
             language: "english",
             chatLink: "https://rawgit.com/Puukjeens/Jaunaisbots/master/lang/en.json",
             scriptLink: "https://rawgit.com/Puukjeens/Jaunaisbots/master/basicBot.js",
